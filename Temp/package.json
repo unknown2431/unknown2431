@@ -1,0 +1,17 @@
+{
+  "name": "amaterasu",
+  "version": "1.0.0",
+  "description": "This is the official Amaterasu's bot to help with the scans servers basic needs and to ensure it becomes the most goated scan server on the cord!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RBaller",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord.js-avatar": "^1.0.0",
+    "discord.js-rate-limiter": "^1.0.7",
+    "dotenv": "^10.0.0"
+  }
+}
